@@ -6,7 +6,7 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
 
 #### Regression
 1. Ordinary Least Squares Regression (OLSR)
-2. Linear Regression  [here](https://github.com/abhinabasaha/MachineLearningAlgorithms/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb)
+2. Linear Regression   **CODE:**  [here](https://github.com/abhinabasaha/MachineLearningAlgorithms/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb)
 3. Logistic Regression
 4. Stepwise Regression
 5. Multivariate Adaptive Regression Splines (MARS)
