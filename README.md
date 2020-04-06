@@ -21,7 +21,7 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
   <tr>
     <td class="tg-c82p">Linear Regression</td>
     <td class="tg-c82p">regression</td>
-    <td class="tg-c82p">[here](https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb)</td>
+    <td class="tg-c82p"><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb">here<\a></td>
   </tr>
   <tr>
     <td class="tg-c82p">Logistic Regression</td>
