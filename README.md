@@ -25,7 +25,7 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
   </tr>
   <tr>
     <td>Logistic Regression</td>
-    <td>classification</td>
+    <td>binary classification</td>
     <td><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/tree/master/Regression/Logistic_Regression">here</td>
   </tr>
   <tr>
