@@ -21,7 +21,7 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
   <tr>
     <td>Linear Regression</td>
     <td>regression</td>
-    <td>here</td>
+    <td><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Regression/Linear%20Regression/Linear%20Regression.ipynb">here</td>
   </tr>
   <tr>
     <td>Logistic Regression</td>
