@@ -76,7 +76,7 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
     <td>here</td>
   </tr>
   <tr>
-    <td>XGBoost</td>
+    <td>XGBoost (with and without GPU Support)</td>
     <td><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Ensemble%20Learning/XG_boost/XG_boost.ipynb">here</a></td>
   </tr>
 </tbody>
