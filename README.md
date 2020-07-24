@@ -51,41 +51,33 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
 </table>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <th class="tg-c3ow" colspan="2"><span style="font-weight:bold;text-decoration:underline">Classification</span><br></th>
+    <th colspan="2">Classification<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Name of the Method</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold">Code</span></td>
+    <td>Name of the Method</td>
+    <td>Code</td>
   </tr>
   <tr>
-    <td class="tg-0pky">SVM</td>
-    <td class="tg-0pky">here</td>
+    <td>SVM</td>
+    <td>here</td>
   </tr>
   <tr>
-    <td class="tg-0pky">KNN</td>
-    <td class="tg-0pky">here</td>
+    <td>KNN</td>
+    <td>here</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Random Forest</td>
-    <td class="tg-0pky">here</td>
+    <td>Random Forest</td>
+    <td>here</td>
   </tr>
   <tr>
-    <td class="tg-0pky">XGBoost</td>
-    <td class="tg-0pky"><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Ensemble%20Learning/XG_boost/XG_boost.ipynb">here</a></td>
+    <td>XGBoost</td>
+    <td><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Ensemble%20Learning/XG_boost/XG_boost.ipynb">here</a></td>
   </tr>
 </tbody>
 </table>
