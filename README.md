@@ -6,8 +6,6 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
 
 
 
-###                                         Classification of ML algorithms
-
  <table>
   <tr>
     <th colspan="3"><span style="font-weight:bold;text-decoration:underline">REGRESSION</span><br></th>
