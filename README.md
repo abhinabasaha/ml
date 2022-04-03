@@ -4,8 +4,6 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
 
 ![Alt text](All_Algos.png)
 
-<img title="a title" alt="Alt text" src="https://github.com/abhinabasaha/Machine_Learning_Algorithms/All_Algos.png">
-
 
 
 ###                                         Classification of ML algorithms
