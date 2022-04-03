@@ -3,6 +3,7 @@
 In this repository I am sharing my survey on various **Machine Learning(ML) Algorithms** and **statistical models** and their use cases.
 
 ![Alt text]("https://github.com/abhinabasaha/Machine_Learning_Algorithms/All_Algos.png", "a title")
+<img title="a title" alt="Alt text" src="https://github.com/abhinabasaha/Machine_Learning_Algorithms/All_Algos.png">
 
 
 
