@@ -2,6 +2,8 @@ In this repository I am sharing my survey on various **Machine Learning(ML) Algo
 
 ## Concepts
 
+All curated concepts/definitions are collated [here](https://github.com/abhinabasaha/ml/blob/master/concepts.md).
+
 ## Machine Learning Algorithms
 
 ![Alt text](All_Algos.png)
