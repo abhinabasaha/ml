@@ -1,8 +1,8 @@
 In this repository I am sharing my survey on various **Machine Learning(ML) Algorithms**, **Concepts**, **methods**, **techniques** used in ML engineering.
 
-# Concepts
+## Concepts
 
-# Machine Learning Algorithms
+## Machine Learning Algorithms
 
 ![Alt text](All_Algos.png)
 
