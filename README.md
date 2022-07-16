@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-In this repository I am sharing my survey on various **Machine Learning(ML) Algorithms** and **statistical models** and their use cases.
+In this repository I am sharing my survey on various **Machine Learning(ML) Algorithms**, **Concepts**, **methods**, **techniques** used in ML engineering.
 
 ![Alt text](All_Algos.png)
 
