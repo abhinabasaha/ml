@@ -82,7 +82,7 @@ All curated concepts/definitions are collated [here](https://github.com/abhinaba
     <td>here</td>
   </tr>
   <tr>
-    <td>XGBoost (with and without GPU Support)</td>
+    <td>XGBoost (with and without GPU support)</td>
     <td><a href="https://github.com/abhinabasaha/Machine_Learning_Algorithms/blob/master/Ensemble%20Learning/XG_boost/XG_boost.ipynb">here</a></td>
   </tr>
 </tbody>
